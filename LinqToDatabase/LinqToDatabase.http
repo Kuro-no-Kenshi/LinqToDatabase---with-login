@@ -1,0 +1,6 @@
+@LinqToDatabase_HostAddress = http://localhost:5206
+
+GET {{LinqToDatabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
